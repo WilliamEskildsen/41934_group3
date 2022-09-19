@@ -21,7 +21,7 @@ Disciplinary analyses proceeding this use case would be energy engineering as in
 The use case needs all elements to make a complete LCA, however LCA's can be made for specific parts of the building aswell to asses impact of suspected high impact parts.
 
 ## What (use cases) need to be done before you can start your use case?
-General architectural concept and material choices for the building. 
+General architectural concept, material choices for the building and building frame calculations for heat balance and energy use. 
 
 ## What is the input data for your use case?
 Material quantity, EPD's and energy use.
