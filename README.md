@@ -18,7 +18,7 @@ For the solution of the use case we used the IFC concept quantityset with the sp
 Disciplinary analyses proceeding this use case would be energy engineering as installation and energy use during use phase of the model would be needed as input for a full LCA.
 
 ## What building elements are you interested in?
-The use case needs all elements to make a complete LCA, however LCA's can be made for specific parts of the building aswell to asses impact of suspected high impact parts.
+The use case needs all elements to make a complete LCA, however LCA's can be made for specific parts of the building aswell, to asses impact of suspected high impact parts. If a full LCA is performed and specific elements are creating hot spots (high impact), these can easily be further analysed as the information for this should already be inside the bim model.
 
 ## What (use cases) need to be done before you can start your use case?
 General architectural concept, material choices for the building and building frame calculations for heat balance and energy use. 
