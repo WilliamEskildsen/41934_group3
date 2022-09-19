@@ -3,7 +3,7 @@
 
 
 ## Describe the use case you have chosen
-We have chosen the use case LCA with the goal of making an LCA from a BIM model as simple as possible. For now the code is made as an introduction which gets the areas of windows aswell as floors. This will be used in defining the environmental impact pr. sqm of building parts.
+We have chosen the use case LCA with the goal of making an LCA from a BIM model as simple as possible. For now the code is made as an introduction which gets the areas of windows aswell as floors. This will be used in defining the environmental impact pr. sqm of building parts. In the future the code will include EPD's for the materials used in the building parts which the areas has been calculated for.
 
 ## Who is the use case for?
 This use case may be used sustainability engineers and companies interested in simplyfying LCA procedures as these can be very challenging.
