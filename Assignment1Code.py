@@ -13,7 +13,7 @@ TotalArea = 0
 for Q in QA:
     TotalArea += Q.AreaValue
     
-print(TotalArea)
+print("Total floor area: ", TotalArea)
 
 
 
@@ -22,4 +22,4 @@ TotalWindowArea = 0
 for window in windows:
     TotalWindowArea += window.OverallHeight*window.OverallWidth
     
-print(TotalWindowArea)
+print("Total window area: ", TotalWindowArea)
