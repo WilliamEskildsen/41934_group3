@@ -29,3 +29,9 @@ Material quantity, EPD's and energy use.
 ## What other use cases are waiting for your use case to complete?
 Certification aswell as upholding relevant building requirements. However as it is an iterative process this will be done parallel with other use cases finalizing.
 
+
+
+# BPMN
+<img src="./Preliminary BPMN.svg">
+
+
