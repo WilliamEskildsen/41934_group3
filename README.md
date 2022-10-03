@@ -32,6 +32,6 @@ Certification aswell as upholding relevant building requirements. However as it 
 
 
 # BPMN
-<img src="./Preliminary BPMN.svg">
+<img src="./Images/Preliminary BPMN.svg">
 
 
