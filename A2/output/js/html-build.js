@@ -1,4 +1,5 @@
 /* written by Tim McGinley 2022 */
+/* And edited by Group 3 */
 
 // ok in here we need to include a lot of stuff.
 // we need a menu... where would this fit?
@@ -12,7 +13,7 @@ function main() {
 	const floors = document.getElementsByTagName("floor-");
 	let num_floors = floors.length;
 	console.log(num_floors);
-
+	
 	// Total windows and window area
 	const windows = document.getElementsByTagName("window-");
 	let num_windows = windows.length;
