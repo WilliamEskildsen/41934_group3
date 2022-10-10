@@ -14,7 +14,7 @@ function main() {
 	let num_floors = floors.length;
 	console.log(num_floors);
 	
-	// Total windows and window area
+	// Total windows and window area - added by group3
 	const windows = document.getElementsByTagName("window-");
 	let num_windows = windows.length;
 	console.log(num_windows);
@@ -23,7 +23,7 @@ function main() {
 	// add data to the properties box
 	$('props-').prepend('number of floors is '+num_floors)+'<br>';
 	$('props-').prepend('site elevation is '+$('site-').attr('elev')+'<br>');
-
+	//Added by group 3
 	$('props-').prepend('Total number of windows is '+num_windows+'<br>');
   $('props-').prepend('Total window area is ' + $('AreaOfWindows-').attr('TotalArea').bold() + ' m2'.bold() +'<br>');
 
@@ -35,7 +35,7 @@ function main() {
 	console.log($(this)[0].innerHTML);
 		$( this ).on("click", function(){
 			//$('plan-').css("background-color","black");
-
+			//  Modified by group 3
 			changePlan($(this).attr('name')+':'+$(this).attr('level') + '<br>' + 'Window Area of floor: ' + $(this).attr('WindowAreaByFloor') + 'm2');
 			//$( this ).innerHTML
 		});
