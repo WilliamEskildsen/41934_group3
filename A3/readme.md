@@ -11,9 +11,10 @@ The use case is Sustainability and the BIM use is within the category Analyse - 
 
 ## 3B: Tool / Workflow
 
-3. Process diagram
+3. Process diagram  
+<img src="./A1/Images/Preliminary BPMN.svg">
 
-4. Description of workflow
+4. Description of workflow  
 
 ## 3C: Information Exchange
 
