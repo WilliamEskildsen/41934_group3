@@ -19,8 +19,8 @@ The proces starts with the user adjusting the BIM model to make it usable for LC
 
 ## 3C: Information Exchange  
 
-View the uploaded Excel file:
 5. Information exchange  
+View the uploaded Excel file: LCA Envelope Exchange Information.xlsx
 
 6. IFC  
 We would need the IFC entities corresponding to the elements specified in the Excel file. For comparison of the results we would need requirements from BR18 to see whether the results are withing the limits of the requirements. The properties of the entites would have to contain materials of the specific entities and the amount of material for each entity. If materials for all entities can be extracted then we can easily make an overview of the environmental impacts using either provided EPDs or existing ones on corresponding materials.
