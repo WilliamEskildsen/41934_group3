@@ -12,9 +12,10 @@ The use case is Sustainability and the BIM use is within the category Analyse - 
 ## 3B: Tool / Workflow
 
 3. Process diagram  
-<img src="./A1/Images/Preliminary BPMN.svg">
+<img src="../A1/Images/Preliminary BPMN.svg">
 
 4. Description of workflow  
+The proces starts with the user adjusting the BIM model to make it usable for LCA. This means materials is needed for example. BIM file is then exported into our tool as an IFC file. The tool will then do simplified quantities and material properties to give a simple LCA assessment. Furthermore energy framing is also calculated in a simple manor. Ideally the code could include EPD's for the used materials in the building.
 
 ## 3C: Information Exchange
 
