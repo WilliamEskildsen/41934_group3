@@ -36,7 +36,7 @@ On a societal level the tool could help companies making better sustainable solu
 ## 3E: Delivery
 
 9. Solving the use case  
-The use case will be solved by getting the needed data on the entites in the building envelope. With amounts and material names, an LCA can quickly be made in another software or ideally in the same software (though this might be a bit too much to bite over).
+The use case will be solved by getting the needed data on the entites in the building envelope. With amounts and material names, an LCA can quickly be made in another software or ideally in the same software (though this might be a bit too much to bite over). This will make it easier in the early design phase of the building envelope to uphold requirements in the industry. This will solve problems such as having to go back to building envelope in the late phases of a project realising it does not uphold requirements for environmental impacts.
 
 10. Making of the tool  
 The tool will be made on iterations on an IFC model with all the needed data in it. We will start from top to acces the overall entities such as walls, windows, etc. Then we will try to pull out properties of the entities containing amount (volume, area, weight, etc.) and then material names.
