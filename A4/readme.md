@@ -13,3 +13,10 @@ The structure of this depends on the tool you have chosen to develop but it shou
 1. be written in Python (mostly) so should contain a main.py file
 2. if you have used blender as the target for the tool, please also include a .blend file that we can load to check your project.
 3. clearly seperated the code from the input data and resulting guidance (output) (if your output is a file).
+
+
+## 2 Minute Video
+- Summary of the use case / why is this a challenge?
+- Who is you tool for?
+- Business and societal value
+- Demo of the tool (if interaction / processing takes longer – edit the video 😊)
