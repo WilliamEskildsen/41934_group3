@@ -17,6 +17,6 @@ The structure of this depends on the tool you have chosen to develop but it shou
 
 ## 2 Minute Video
 - Summary of the use case / why is this a challenge?
-- Who is you tool for?
+- Who is your tool for?
 - Business and societal value
 - Demo of the tool (if interaction / processing takes longer – edit the video 😊)
