@@ -10,6 +10,6 @@ Be summarised in a 2 minute video. You will produce one final tool in the follow
 ## Tool / Workflow
 The structure of this depends on the tool you have chosen to develop but it should:
 
-be written in Python (mostly) so should contain a main.py file
-if you hev used blender as the target for the tool, please also include a .blend file that we can load to check your project.
-clearly seperated the code from the input data and resulting guidance (output) (if your output is a file).
+1. be written in Python (mostly) so should contain a main.py file
+2. if you have used blender as the target for the tool, please also include a .blend file that we can load to check your project.
+3. clearly seperated the code from the input data and resulting guidance (output) (if your output is a file).
