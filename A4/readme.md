@@ -20,12 +20,12 @@ To run the tool you will need the following softwares and files downloaded from 
 2. In the above folder open engine.yaml as administrator (can be done with notepad++)
 3. Add the following under the existing lines of code
 -
-       ""-
+       -
        name: {Danish: "Project template"}
         res: 
             - JsonFolder: C:\Program Files\SBi\LCAbyg 5 (64 bit) (5.2.1.0)\import_example
             - Embedded: b5ca0ecf-52fc-461c-babe-7c763dc067ef
-            ""
+            
             
 
 
