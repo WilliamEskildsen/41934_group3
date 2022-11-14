@@ -65,23 +65,11 @@ To run the tool you will need the following softwares and files downloaded from 
                res: 
                      - JsonFolder: C:\Program Files\SBi\LCAbyg 5 (64 bit) (5.2.1.0)\import_example
                      - Embedded: b5ca0ecf-52fc-461c-babe-7c763dc067ef
-            
+4. Now you can run main.py code in IDLE
 
 
-
-In this assignment we will develop a tool / workflow based on the use case you defined in the previous assignment.
-The tool must:
-
-Address your use case:
-Ideally be written in Python, but can be other approaches in special cases if agreed with the course responsible.
-Be summarised in a 2 minute video. You will produce one final tool in the following folders, the structure of which is summarised below.
-
-## Tool / Workflow
-The structure of this depends on the tool you have chosen to develop but it should:
-
-1. be written in Python (mostly) so should contain a main.py file
-2. if you have used blender as the target for the tool, please also include a .blend file that we can load to check your project.
-3. clearly seperated the code from the input data and resulting guidance (output) (if your output is a file).
+## Further work
+To expand the tool further we want to make it more automatic to generate products and link epds from the LCAByg database to the fitting materials based on material names from ifc. Furthermore it would be the goal to strive for, that the tool may be able to build all the relating categories under LCAByg so that you would automatically have a full LCAByg file and not just material volumes. This can be done so that the tool works with speckle and can update and make quick overlays of impacts on the climate based on materials and volumes used in a building project.
 
 
 ## 2 Minute Video
@@ -89,6 +77,7 @@ The structure of this depends on the tool you have chosen to develop but it shou
 - Who is your tool for?
 - Business and societal value
 - Demo of the tool (if interaction / processing takes longer – edit the video 😊)
+
 
 
 
