@@ -3,6 +3,7 @@
 ## The tool
 The tool will help automatically fill in volumes in LCAByg 5.2.1.0 from an ifc model with the necessary data. The python identifies the walls and from here extracts the materials and the volumes of materials used for the walls. After this it identifies the file called products.json in the json template files in this repository and takes the name and index of the product.
 
+-
 {
         "Node": {
             "Product": {
