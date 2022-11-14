@@ -1,5 +1,32 @@
 # A4: Final Project
 
+
+## Requirements to run tool
+
+To run the tool you will need the following softwares and files downloaded from this 
+
+### Softwares
+1. LCAByg 5.2.1.0 (No other versions)
+2. IDLE 3.1 (To run the python script with appropriate libraries)
+3. IFCOpenshell 
+
+### Files needed
+1. main.py (from this repository)
+2. duplex.ifc (from this repository)
+3. The folder called import_example from this repository
+
+### Stepwise guide
+1. Take import_example and paste it under C:\Program Files\SBi\LCAbyg 5 (64 bit) (5.2.1.0)
+2. In the above folder open engine.yaml as administrator (can be done with notepad++)
+3. Add the following under the existing lines of code
+-
+        name: {Danish: "Project template"}
+        res: 
+            - JsonFolder: C:\Program Files\SBi\LCAbyg 5 (64 bit) (5.2.1.0)\import_example
+            - Embedded: b5ca0ecf-52fc-461c-babe-7c763dc067ef
+            
+
+
 In this assignment we will develop a tool / workflow based on the use case you defined in the previous assignment.
 The tool must:
 
@@ -20,3 +47,6 @@ The structure of this depends on the tool you have chosen to develop but it shou
 - Who is your tool for?
 - Business and societal value
 - Demo of the tool (if interaction / processing takes longer – edit the video 😊)
+
+
+
