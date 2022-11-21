@@ -90,7 +90,7 @@ To expand the tool further we want to make it more automatic to link all product
 - Business and societal value
 - Demo of the tool (if interaction / processing takes longer – edit the video 😊)
 
+https://user-images.githubusercontent.com/113362098/203079323-2b53132c-c822-4e98-8d7e-eb1216c91926.mp4
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/jape9TvOeZw)
 
 
