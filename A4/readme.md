@@ -63,7 +63,7 @@ To run the tool you will need the following softwares and files downloaded from 
 
 ### Files needed
 1. main.py (from this repository)
-2. duplex.ifc (from this repository)
+2. Duplex_A_20110907.ifc (from this repository)
 3. The folder called import_example from this repository
 
 ### Stepwise guide
