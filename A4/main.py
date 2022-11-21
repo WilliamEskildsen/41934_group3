@@ -142,6 +142,3 @@ with open("constructions.json","w") as f:
 
 #Close the file    
 f.close()
-
-
-#open("ballade.json","w") opretter en ny fil
