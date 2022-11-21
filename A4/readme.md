@@ -69,7 +69,7 @@ To run the tool you will need the following softwares and files downloaded from 
 
 
 ## Further work
-To expand the tool further we want to make it more automatic to link products to specific building parts and link epds from the LCAByg database to the fitting materials based on material names from ifc. Furthermore it would be the goal to strive for, that the tool may be able to build all the relating categories under LCAByg so that you would automatically have a full LCAByg file and not just material volumes. This can be done so that the tool works with speckle and can update and make quick overlays of impacts on the climate based on materials and volumes used in a building project.
+To expand the tool further we want to make it more automatic to link all products to specific building parts and link epds from the LCAByg database to the fitting materials based on material names from ifc. Furthermore it would be the goal to strive for, that the tool may be able to build all the relating categories under LCAByg so that you would automatically have a full LCAByg file and not just material volumes. This can be done so that the tool works with speckle and can update and make quick overlays of impacts on the climate based on materials and volumes used in a building project.
 
 
 ## 2 Minute Video
