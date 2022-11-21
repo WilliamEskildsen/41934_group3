@@ -1,0 +1,143 @@
+[
+  {
+    "Node": {
+      "Construction": {
+        "id": "c6f24e0f-020a-4f0f-93c6-65beb50bd798",
+        "name": {
+          "Danish": "IfcWallStandardCase"
+        },
+        "unit": "M2",
+        "source": "User",
+        "comment": "",
+        "layer": 1,
+        "locked": true
+      }
+    }
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "805b118d-1eb2-4848-b4dc-bb4e5071cb6d",
+          "amount": 10.162142518400458,
+          "unit": "M3",
+          "lifespan": 100,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "c6f24e0f-020a-4f0f-93c6-65beb50bd798",
+      "bcb52ffb-e943-4620-934a-23cde5cfcbe5"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "4d722277-cc26-4847-8f2c-790f57ca0963",
+          "amount": 33.316976829201536,
+          "unit": "M3",
+          "lifespan": 100,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "c6f24e0f-020a-4f0f-93c6-65beb50bd798",
+      "471a938e-447c-4398-bd7f-7d0a92e96df9"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "1e13071b-f730-4dee-92ea-6b4c45bc8957",
+          "amount": 66.09288589800295,
+          "unit": "M3",
+          "lifespan": 100,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "c6f24e0f-020a-4f0f-93c6-65beb50bd798",
+      "26aeb674-657c-459d-82bb-d6d2942e4e34"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "461eab95-7d39-4ad6-937f-4512046fb898",
+          "amount": 8.56125465000038,
+          "unit": "M3",
+          "lifespan": 100,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "c6f24e0f-020a-4f0f-93c6-65beb50bd798",
+      "341d2ce7-8170-4cdf-b9bc-b73d82e1cb95"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "4418b049-7740-4c79-9228-cd11bc12359e",
+          "amount": 32.29131007499998,
+          "unit": "M3",
+          "lifespan": 100,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "c6f24e0f-020a-4f0f-93c6-65beb50bd798",
+      "850d931b-fbb1-405e-bc2d-f395e8731170"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "052b37b9-c605-4f0b-82be-c8e09cfd4b34",
+          "amount": 25.023946272000956,
+          "unit": "M3",
+          "lifespan": 100,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "c6f24e0f-020a-4f0f-93c6-65beb50bd798",
+      "c1e8e742-6d6a-4dd8-9605-e6af7a18ac10"
+    ]
+  },
+  {
+    "Edge": [
+      {
+        "ConstructionToProduct": {
+          "id": "ede4e4a7-88b3-4f27-ab5c-99e2ee620486",
+          "amount": 13.599970800000518,
+          "unit": "M3",
+          "lifespan": 100,
+          "demolition": false,
+          "delayed_start": 0,
+          "enabled": true,
+          "excluded_scenarios": []
+        }
+      },
+      "c6f24e0f-020a-4f0f-93c6-65beb50bd798",
+      "33477f12-3e40-485c-b304-4104491e90c6"
+    ]
+  }
+]

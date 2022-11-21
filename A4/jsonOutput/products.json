@@ -1,0 +1,205 @@
+[
+  {
+    "Node": {
+      "Product": {
+        "id": "bcb52ffb-e943-4620-934a-23cde5cfcbe5",
+        "name": {
+          "English": "Test product",
+          "Danish": "Plasterboard",
+          "German": ""
+        },
+        "source": "User",
+        "comment": "",
+        "uncertainty_factor": 1.0,
+        "uncertainty_factor_dgnb": 1.0
+      }
+    }
+  },
+  {
+    "Edge": [
+      {
+        "ProductToStage": {
+          "id": "602c1338-e0a1-4372-b529-0265d7027012",
+          "excluded_scenarios": [],
+          "enabled": true
+        }
+      },
+      "bcb52ffb-e943-4620-934a-23cde5cfcbe5",
+      "61a77bc8-bddb-4521-9862-e613e26a5661"
+    ]
+  },
+  {
+    "Node": {
+      "Product": {
+        "id": "471a938e-447c-4398-bd7f-7d0a92e96df9",
+        "name": {
+          "English": "Test product",
+          "Danish": "Metal - Stud Layer",
+          "German": ""
+        },
+        "source": "User",
+        "comment": "",
+        "uncertainty_factor": 1.0,
+        "uncertainty_factor_dgnb": 1.0
+      }
+    }
+  },
+  {
+    "Edge": [
+      {
+        "ProductToStage": {
+          "id": "e909a28f-7e5f-41c4-9ac1-1c1f3785d35f",
+          "excluded_scenarios": [],
+          "enabled": true
+        }
+      },
+      "471a938e-447c-4398-bd7f-7d0a92e96df9",
+      "61a77bc8-bddb-4521-9862-e613e26a5661"
+    ]
+  },
+  {
+    "Node": {
+      "Product": {
+        "id": "26aeb674-657c-459d-82bb-d6d2942e4e34",
+        "name": {
+          "English": "Test product",
+          "Danish": "Masonry - Concrete Block",
+          "German": ""
+        },
+        "source": "User",
+        "comment": "",
+        "uncertainty_factor": 1.0,
+        "uncertainty_factor_dgnb": 1.0
+      }
+    }
+  },
+  {
+    "Edge": [
+      {
+        "ProductToStage": {
+          "id": "9b138af7-4a11-4c2f-9a69-d690b5be3748",
+          "excluded_scenarios": [],
+          "enabled": true
+        }
+      },
+      "26aeb674-657c-459d-82bb-d6d2942e4e34",
+      "61a77bc8-bddb-4521-9862-e613e26a5661"
+    ]
+  },
+  {
+    "Node": {
+      "Product": {
+        "id": "341d2ce7-8170-4cdf-b9bc-b73d82e1cb95",
+        "name": {
+          "English": "Test product",
+          "Danish": "Misc. Air Layers - Air Space",
+          "German": ""
+        },
+        "source": "User",
+        "comment": "",
+        "uncertainty_factor": 1.0,
+        "uncertainty_factor_dgnb": 1.0
+      }
+    }
+  },
+  {
+    "Edge": [
+      {
+        "ProductToStage": {
+          "id": "90fef775-278c-485e-8d0a-c2c5ca985879",
+          "excluded_scenarios": [],
+          "enabled": true
+        }
+      },
+      "341d2ce7-8170-4cdf-b9bc-b73d82e1cb95",
+      "61a77bc8-bddb-4521-9862-e613e26a5661"
+    ]
+  },
+  {
+    "Node": {
+      "Product": {
+        "id": "850d931b-fbb1-405e-bc2d-f395e8731170",
+        "name": {
+          "English": "Test product",
+          "Danish": "Concrete - Cast In Situ",
+          "German": ""
+        },
+        "source": "User",
+        "comment": "",
+        "uncertainty_factor": 1.0,
+        "uncertainty_factor_dgnb": 1.0
+      }
+    }
+  },
+  {
+    "Edge": [
+      {
+        "ProductToStage": {
+          "id": "3f547b15-98c8-4883-ac32-49a81b6476bc",
+          "excluded_scenarios": [],
+          "enabled": true
+        }
+      },
+      "850d931b-fbb1-405e-bc2d-f395e8731170",
+      "61a77bc8-bddb-4521-9862-e613e26a5661"
+    ]
+  },
+  {
+    "Node": {
+      "Product": {
+        "id": "c1e8e742-6d6a-4dd8-9605-e6af7a18ac10",
+        "name": {
+          "English": "Test product",
+          "Danish": "Masonry - Brick",
+          "German": ""
+        },
+        "source": "User",
+        "comment": "",
+        "uncertainty_factor": 1.0,
+        "uncertainty_factor_dgnb": 1.0
+      }
+    }
+  },
+  {
+    "Edge": [
+      {
+        "ProductToStage": {
+          "id": "a77e35b8-903c-4856-a19f-2ae2885a6f42",
+          "excluded_scenarios": [],
+          "enabled": true
+        }
+      },
+      "c1e8e742-6d6a-4dd8-9605-e6af7a18ac10",
+      "61a77bc8-bddb-4521-9862-e613e26a5661"
+    ]
+  },
+  {
+    "Node": {
+      "Product": {
+        "id": "33477f12-3e40-485c-b304-4104491e90c6",
+        "name": {
+          "English": "Test product",
+          "Danish": "Insulation / Thermal Barriers - Rigid insulation",
+          "German": ""
+        },
+        "source": "User",
+        "comment": "",
+        "uncertainty_factor": 1.0,
+        "uncertainty_factor_dgnb": 1.0
+      }
+    }
+  },
+  {
+    "Edge": [
+      {
+        "ProductToStage": {
+          "id": "ecfdc6dc-0f67-4473-84eb-f1912f76da9f",
+          "excluded_scenarios": [],
+          "enabled": true
+        }
+      },
+      "33477f12-3e40-485c-b304-4104491e90c6",
+      "61a77bc8-bddb-4521-9862-e613e26a5661"
+    ]
+  }
+]
