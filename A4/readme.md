@@ -1,7 +1,7 @@
 # A4: Final Project
 
 ## The tool
-This tool uses open source licensing. The tool will help automatically fill in volumes in LCAByg 5.2.1.0 from an ifc model with the necessary data. The python identifies the walls and from here extracts the materials and the volumes of materials used for the walls. After this it identifies the file called products.json in the json template files in this repository and takes the name and index of the product (seen in code below). 
+This tool uses open source licensing. The tool will help automatically fill in volumes in LCAByg 5.2.1.0 from an ifc model with the necessary data. The python script identifies the walls and from here extracts the materials and the volumes of materials used for the walls. After this it writes a file called products.json and construction.json as the json template files in this repository with the names and indexes of the products (example of json file seen in code below). 
 
 
         {
@@ -21,8 +21,6 @@ This tool uses open source licensing. The tool will help automatically fill in v
             }
 
 
-If the name of the product matches the material name it will update the volume of the material in another json file called constructions.json in the matching section.
-
         {
                 "Edge": [
                     {
@@ -40,6 +38,8 @@ If the name of the product matches the material name it will update the volume o
                     "51bcec85-9105-4946-8a8a-51219bf9adfa"
                 ]
             }
+
+After the python script creates the json files, the folder import_example can be loaded in to LCAByg and it will have the materials from the components read from the ifc file.
 
 ## Requirements to run tool
 
@@ -65,11 +65,11 @@ To run the tool you will need the following softwares and files downloaded from 
                res: 
                      - JsonFolder: C:\Program Files\SBi\LCAbyg 5 (64 bit) (5.2.1.0)\import_example
                      - Embedded: b5ca0ecf-52fc-461c-babe-7c763dc067ef
-4. Now you can run main.py code in IDLE
+4. Now you can run the main.py code in IDLE (duplex.ifc has to be in the same folder as main.py and you will need to have the module ifcopenshell to be able to import it using main.py)
 
 
 ## Further work
-To expand the tool further we want to make it more automatic to link all products to specific building parts and link epds from the LCAByg database to the fitting materials based on material names from ifc. Furthermore it would be the goal to strive for, that the tool may be able to build all the relating categories under LCAByg so that you would automatically have a full LCAByg file and not just material volumes. This can be done so that the tool works with speckle and can update and make quick overlays of impacts on the climate based on materials and volumes used in a building project.
+To expand the tool further we want to make it more automatic to link all products to specific building parts and link epds from the LCAByg database to the fitting materials based on material names from ifc. Furthermore it would be the goal to strive for, that the tool may be able to build all the relating categories under LCAByg so that you would automatically have a full LCAByg file and not just material volumes. This can be done so that the tool works with speckle and can update and make quick overlays of impacts on the climate based on materials and volumes used in a building project. To make the societal value bigger it would be nice if the tool could take the results from LCAByg and upload them to a webpage explained so that all people (no need for engineering background) can understand the results.
 
 
 ## 2 Minute Video
