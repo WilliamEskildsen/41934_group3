@@ -1,5 +1,12 @@
 # A4: Final Project
 
+## Aim and scope of the tool
+
+[x] Extracting material name and volume from ifc 
+[x] Writing material name and volume to json file
+[x] Importing json file to LCAByg
+[] Saving epd's to materials from LCAByg
+
 ## The tool
 This tool uses open source licensing. The tool will help automatically fill in volumes in LCAByg 5.2.1.0 from an ifc model with the necessary data. The python script identifies the walls and from here extracts the materials and the volumes of materials used for the walls. After this it writes a file called products.json and construction.json as the json template files in this repository with the names and indexes of the products (example of json file seen in code below). 
 
