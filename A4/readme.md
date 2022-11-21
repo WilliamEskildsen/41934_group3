@@ -2,6 +2,8 @@
 
 ## Aim and scope of the tool
 
+The scope of the study is limited to IFCWallStandardCase (walls within the ifc model). The other ifc components follow the same principles, but due to time limit the scope has been set to IFCWallStandarCase.
+
 - [x] Extracting material name and volume from ifc 
 - [x] Writing material name and volume to json file
 - [x] Importing json file to LCAByg
