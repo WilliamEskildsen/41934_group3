@@ -76,6 +76,7 @@ To run the tool you will need the following softwares and files downloaded from 
                res: 
                      - JsonFolder: C:\Program Files\SBi\LCAbyg 5 (64 bit) (5.2.1.0)\import_example
                      - Embedded: b5ca0ecf-52fc-461c-babe-7c763dc067ef
+
 4. Now you can run the main.py code in IDLE (duplex.ifc has to be in the same folder as main.py and you will need to have the module ifcopenshell to be able to import it using main.py)
 
 
