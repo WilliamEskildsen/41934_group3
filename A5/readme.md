@@ -14,9 +14,9 @@ The amount of use cases fit fine with what we wanted to work with. Maybe include
 
 The number of tools was ok, but some of them were introduced in a rush, which makes it difficult to know the capabilities of the tool. Either focus more on the tools rather than on ISO 19650 or expand the course to 10 ECTS. A possibility is to make smaller breakout rooms for specific lectures such as HTML as we didn’t use this in our final project. Uploaded videos explaining different codes/tools would be nice so you can prepare before lectures.
 
-- Would you
+- Would you on the 7-grade scale like a 12?
 
-NO! and maybe also no
+Yes :)
 
 <b>2. output of the tool</b>
 
