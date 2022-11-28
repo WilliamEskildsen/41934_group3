@@ -1,6 +1,6 @@
 # Project reflection
 
-In this project you will use the peer feedback and the feedback from the companies to your 2 minute videos and tools to write a breif reflection on
+In this project you will use the peer feedback and the feedback from the companies to your 2 minute videos and tools to write a brief reflection on
 
 - the process of creating the tool
 - the output of the tool.
