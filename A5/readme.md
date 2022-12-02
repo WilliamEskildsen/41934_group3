@@ -2,6 +2,8 @@
 
 <b>1. process of developing the tool</b>
 
+In general the result was achieved through alot of iterations and even with this result it might not be the most optimal way of coding it, if the final goal is the get all elements in to the JSON files. For future work we would start simple instead of trying to optimize code as we go. First start with exporting one element to the json files, then automize this for the rest of the building elements and lastly optimize the json file input so it is as streamlined and generalized as possible. It would have been nice to work from an example file but the process we went through also helped us gain important knowledge in our own script. For further contributions to solving the use case / problem that is exporting to json files that can be imported in LCAByg the first thing would be focus on extraction of necessary info from ifc file, then use a template for the first part of exporting to json file and then built on in the json files so that they include as many parts of LCAByg as possible.
+
 - Did the process of the course enable you to answer or define questions that you might need later for your thesis?
 
 It initiated thoughts on implementing a more automatic and early LCA for building projects. Making a thesis on LCA and how to implement them early on has not been the thought from anyone in the group and we think with 2 semesters until the thesis starts it hasn’t made us settle on a topic yet. The last project made for an interesting basis, but as we didn’t have enough time to really delve into it for now it will not be chosen as thesis purely based on this course.
